@@ -1,0 +1,41 @@
+﻿
+Node.js
+
+	sudo apt-get update
+	
+	sudo apt install nodejs
+
+	node -v
+
+
+NPM
+
+	sudo apt install npm
+
+
+ANGULAR
+
+	sudo npm install -g @angular/cli
+
+	ng -version
+
+
+IONIC
+
+	sudo npm i -g @ionic/cli
+
+	ionic -v
+
+
+VUE
+
+	sudo npm install -g @vue/cli
+
+	vue -version
+
+
+REACT
+
+	sudo npm -g install create-react-app
+
+	create-react-app -version
